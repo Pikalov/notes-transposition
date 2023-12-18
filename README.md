@@ -1,0 +1,1 @@
+Please find the requirements of the Test Task in "Test Assignment_JAVA Developer.pdf".
